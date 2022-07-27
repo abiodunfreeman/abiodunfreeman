@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [abiodunfreeman.netlify.app](abiodunfreeman.netlify.app)
+- 👨‍💻 All of my projects are available at [abiodunfreeman.netlify.app](https://www.abiodunfreeman.netlify.app)
 
 - 📫 How to reach me **bornduringwar@gmail.com**
 
