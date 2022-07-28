@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm software developer</h1>
+<h1 align="center">Hi 👋, I'm a software developer</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
 
 - 🌱 I’m currently learning **Next JS**
