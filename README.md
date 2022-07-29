@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [abiodunfreeman.netlify.app](https://www.abiodunfreeman.netlify.app)
 
-- 📫 How to reach me **bornduringwar@gmail.com**
+- 📫 How to reach me **freemanAbiodun@gmail.com**
 
 - ⚡ Fun fact **I love yoga**
 
