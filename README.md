@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm a software developer</h1>
 <h3 align="center">A passionate frontend developer from the US</h3>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [abiodunfreeman.netlify.app](https://www.abiodunfreeman.netlify.app)
 
