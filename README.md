@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a software developer</h1>
-<h3 align="center">A passionate frontend developer from the US</h3>
+<h3 align="center">A passionate fullstack developer from the US</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
