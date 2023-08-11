@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [abiodunfreeman.netlify.app](https://www.abiodunfreeman.netlify.app)
+- 👨‍💻 All of my projects are available at [abiodunfreeman.netlify.app](https://www.abiodunfreeman.com)
 
 - 📫 How to reach me **freemanAbiodun@gmail.com**
 
